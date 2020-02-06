@@ -1,0 +1,22 @@
+%MUSE2
+% input from midi file 别.mid
+% totally 4 tracks
+T: 别
+M: 4/4
+L: 1/8
+Q:1/4=110
+% Last note suggests minor mode tune
+K:D % 2 sharps
+
+V:1 style=jianpu  ins=0 name=主 sname=主 play=1 brk=2
+V:2 style=jianpu  ins=0 name=和 sname=和 play=1
+
+[V:1]
+A, A,2zG, A,2z|B,B, B,2G, A,2z|G,G, G,2E,2z2|A,A, G, A,2z3|A, A,2zG, A,2z|B,B, B,2G, A,2z|B,B, B,2G,2z2|CC B, A,2zA,A, |CC C2C B,2z|B,2z4G,G, |B,B, B,2B,A, z2|A,2z4A,A, |CC C2D C2z|B,2z4DD |D2B,2CB, z2|A,2z6|A,A, A,A, E2A,2|G,G, G,B, B,2z2|G,G, G,G, B,2G,2|CC CB, A,2z2|A,A, A,A, E2A,2|G,G, G,B, B,2z2|G,G, G,G, B,2G,2|CC CB, A,2z2|A,A, A,A, E2A,2|G,G, G,B, B,2z2|G,G, G,G, B,2G,2|CC CB, A,2z2|A,A, A,A, E2A,2|G,G, G,B, B,2z2|G,G, G,G, B,2G,2|CC CB, A,2z2|]
+w: 1.彷徨路上我小心翼翼害怕下雨害怕阻挡欢声笑语我勾勒脸庞纷杂人群人来人往我*恐惧的前*方没有你*的远*方我*驻足了迷*茫也失去了方*向我仿若那蜉蝣重获自*由却习惯不了没有你的时候而你早已在天堂放开了手任我坠落下等不到你回头我奢求的以后什么时*候就在你走后我将一无所有或者是你欠我离开的理由或者是我欠你半年的温柔
+w: 2.我将大海填满了黄沙挥手一下写出童话假的阳光才会不听话效颦下雨留了长发你在干*涸土*壤等待为*谁发*芽谁在陪*你说*话谁是谁的爱人呀我仿若那蜉蝣重获自*由却习惯不了没有你的时候而你早已在天堂放开了手任我坠落下等不到你回头我奢求的以后什么时*候就在你走后我将一无所有或者是你欠我离开的理由或者是我欠你半年的温柔
+
+[V:2]
+z8|z8|D,D, D,2B,,2z2|C,C, B,, A,,2z3|z8|z8|E,E, E,2D,2z2|E,E, D, E,2z3|A,2A,G, A, G,2z|G,2z6|G,2G,E, G,A, z2|E,2z6|A,2A,A, G, A,2z|G,2z4B,B, |G,2E,E, G,G, z2|A,2z6|EE EE C2D2|B,3z4z|DD DD B,2G,2|A,3z4z|CC CC A,2C2|B,3z4z|DD DD B,2G,2|A,3z4z|FF FF F2D2|E3z4z|DD DD B,B, G,2|A,3z4z|CC CC A,A, A,C |B,3z4z|DD DD B,B, G,A, |A,3z4z|]
+w: 1.害怕下雨害怕阻挡纷杂人群人来人往我手留有余香却是那么荒唐我身后的残影被迫逐渐*拉*长我仿若那蜉*蝣习惯不了没*有你早已在天*堂等不到你回*头我奢求的以*后你走后我一无所有是你欠我离开的理由是我欠你半年的温柔
+w: 2.挥手一下写出童话效颦下雨留了长发温暖藏在冰箱色彩融水墨画如同你的回答不辞而别*的*话我仿若那蜉*蝣习惯不了没*有你早已在天*堂等不到你回*头我奢求的以*后你走后我一无所有是你欠我离开的理由是我欠你半年的温柔
