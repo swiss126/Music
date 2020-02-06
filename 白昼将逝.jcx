@@ -1,0 +1,15 @@
+%MUSE2
+% input from midi file 白昼将逝.mid
+T: 白昼将逝
+M: 4/4
+L: 1/8
+Q:1/4=125
+% Last note suggests Dorian mode tune
+K:E % 4 sharps
+
+V:1 style=jianpu  ins=0 
+
+[V:1]
+%
+z4C2B,2|A,B, C D2E DC |B,2B,2C2B,2|ED D D2C B,B, |A,4C2B,2|CD D2ED D2|D4E2E2|A,D C2CC B,A, |A,4C2B,2|A,B, C D2E DC |B,4C2B,2|B,C D D2A GF |E2E2A2A2|GA A2AG FE |E2E2D2D2|CD D2ED CB, |A,4z2CB, |A,2B,C CC B,(C |C2)z4DC |B,2CD DD C(D |D2)z4ED |D2DE FF E(D |D2)z4FE |D2EF GG G2|(A4A )z3|AA A2Ac Bc |A2GG G2G2|AG A E2z3|AA A2Ac Bc |A2GG AG B2|A2z6|AA A2Ac Bc |A2GG G2G2|AG A E2z3|AA A2Ac Bc |A2GG AG B2|A2z6|z4C2B,2|A,B, C D2E DC |B,2B,2C2B,2|ED D D2C B,B, |A,4C2B,2|CD D2ED D2|D4E2E2|A,D C2CC B,A, |A,4C2B,2|A,B, C D2E DC |B,4C2B,2|B,C D D2A GF |E2E2A2A2|GA A2AG F2|E4D2D2|CD D2ED CB, |A,4z2CB, |A,2B,C CC B,(C |C2)z4DC |B,2CD DD C(D |D2)z4ED |D2DE FF E(D |D2)z4FE |D2EF GG G2|(A4A )z3|AA A2Ac Bc |A2GG G2G2|AG A E2z3|AA A2Ac Bc |A2GG AG B2|A2z6|AA A2Ac Bc |A2GG G2G2|AG A E2z3|AA A2Ac Bc |A2GG AG B2|A2z6|dd d2df ef |d2cc c2c2|dc d A2z3|dd d2df ef |d2cc dc e2|d2z6|dd d2df ef |d2cc c2cc |dc d A2z3|dd d2df ef |d2cc dc e2|d8|]
+w:窗外再度演绎更迭的昼夜血红双眼随星辰明与灭记忆与情感交织重叠痛苦敲击着灵魂不停歇日记翻开到崭新的一页凌乱线条把每个碎片谱写刀割的痕迹疼痛过于真切渴望逃离这残忍的世界妄图与过去做个了结*踟蹰于寒风愈发凛冽*黑暗之中酝酿着罪孽*怎能将一切彻底覆灭*裙衫被汗水浸透面对施暴者低下了头恐惧的双眸停止吧无意义的争斗是否有什么遗漏为何路还未走到尽头颤抖的双手如何将仅存心愿拼凑她说我生来属于无边黑夜阳光是过于奢侈的礼节白昼给予了温暖热烈我却想要将这一切冻结背后是谁身影渐渐明显张开嘴仿佛即将把我吞灭害人与被害有何区别善恶的天平已开始倾斜泪*水卷走**留恋*痛*苦为我**加冕*再*次睁开**双眼*点*燃了*我的执念*握手中冰冷利刃对或错不必刻意区分悲痛在翻滚害怕吧直到下个清晨在这座小镇我怎会让阳光仍残留余温是仇还是恩现如今还能否下定论不再颤抖的灵魂让血液永流积攒愤恨心不再困顿让生死解答所有疑问骤然呈现的缤纷妄图向我灌输所有谬论待下个黄昏白昼逝去就在这一瞬
